@@ -29,15 +29,15 @@ Explore everything I’m working on directly on my [GitHub repositories page](ht
 
 #### Recent Projects:
 
-### [ChuckTooth](https://github.com/yourusername/ChuckTooth)  
+### [ChuckTooth](https://github.com/sekyb/ChuckTooth)  
 **ChuckTooth** is a Python script designed to scan directories for sensitive information, such as API keys, passwords, and other private data, and generate a detailed report in Excel format.  
 **Tech**: Python 
 
-### [Lutty](https://github.com/yourusername/lutty)  
+### [Lutty](https://github.com/sekyb/lutty)  
 **Lutty** is a lightweight and interactive SSH session manager for Linux, designed as a simple alternative to PuTTY.  
 **Tech**: Python
 
-### [HoloSearch](https://github.com/yourusername/HoloSearch)  
+### [HoloSearch](https://github.com/sekyb/HoloSearch)  
 **HoloSearch** is a Flask application that allows users to search for Pokémon details through a sleek, responsive interface. The app uses data from the unofficial PokéAPI to provide information such as abilities, types, evolutions, and more.  
 **Tech**: Python, Flask  
 
