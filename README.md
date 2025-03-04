@@ -27,12 +27,19 @@ Here are some of my current public projects. Feel free to explore and contribute
 ### 🔗 [All My Repositories](https://github.com/sekyb?tab=repositories)
 Explore everything I’m working on directly on my [GitHub repositories page](https://github.com/sekyb?tab=repositories).
 
-#### Notable Projects:
-- 🖥️ **HoloSearch**: is a flask application that allows users to search for Pokémon details through a sleek, responsive interface.
-  [Repository Link](https://github.com/sekyb/HoloSearch) 
-  
-- 🖥️ **CDMS**: CDMS (Card Database Management System) is a command-line tool to manage your Magic: The Gathering card collection. 
-  [Repository Link](https://github.com/sekyb/cdms)
+#### Recent Projects:
+
+### [ChuckTooth](https://github.com/yourusername/ChuckTooth)  
+**ChuckTooth** is a Python script designed to scan directories for sensitive information, such as API keys, passwords, and other private data, and generate a detailed report in Excel format.  
+**Tech**: Python 
+
+### [Lutty](https://github.com/yourusername/lutty)  
+**Lutty** is a lightweight and interactive SSH session manager for Linux, designed as a simple alternative to PuTTY.  
+**Tech**: Python
+
+### [HoloSearch](https://github.com/yourusername/HoloSearch)  
+**HoloSearch** is a Flask application that allows users to search for Pokémon details through a sleek, responsive interface. The app uses data from the unofficial PokéAPI to provide information such as abilities, types, evolutions, and more.  
+**Tech**: Python, Flask  
 
 ---
 
