@@ -24,11 +24,6 @@ I believe in the power of collaboration and am always excited to learn something
 
 Here are some of my current public projects. Feel free to explore and contribute!
 
-### 🔗 [All My Repositories](https://github.com/sekyb?tab=repositories)
-Explore everything I’m working on directly on my [GitHub repositories page](https://github.com/sekyb?tab=repositories).
-
-#### Recent Projects:
-
 ### [ChuckTooth](https://github.com/sekyb/ChuckTooth)  
 **ChuckTooth** is a Python script designed to scan directories for sensitive information, such as API keys, passwords, and other private data, and generate a detailed report in Excel format.  
 **Tech**: Python 
