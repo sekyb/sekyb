@@ -29,7 +29,7 @@ Here are some of my current public projects. Feel free to explore and contribute
 **Tech**: Python 
 
 ### Project Amethyst 
-**Project Amethyst * A self-hosted record-keeping system for Collectibles.      
+**Project Amethyst** A self-hosted record-keeping system for Collectibles.      
 **Tech**: Python, Flask, Redis, Docker, Postgres        
 Private Repo until Alpha version will be released.
 
