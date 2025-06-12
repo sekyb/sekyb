@@ -28,13 +28,10 @@ Here are some of my current public projects. Feel free to explore and contribute
 **ChuckTooth** is a Python script designed to scan directories for sensitive information, such as API keys, passwords, and other private data, and generate a detailed report in Excel format.  
 **Tech**: Python 
 
-### [Lutty](https://github.com/sekyb/lutty)  
-**Lutty** is a lightweight and interactive SSH session manager for Linux, designed as a simple alternative to PuTTY.  
-**Tech**: Python
-
-### [HoloSearch](https://github.com/sekyb/HoloSearch)  
-**HoloSearch** is a Flask application that allows users to search for Pokémon details through a sleek, responsive interface. The app uses data from the unofficial PokéAPI to provide information such as abilities, types, evolutions, and more.  
-**Tech**: Python, Flask  
+### Project Amethyst 
+**Project Amethyst * A self-hosted record-keeping system for Collectibles.      
+**Tech**: Python, Flask, Redis, Docker, Postgres        
+Private Repo until Alpha version will be released.
 
 ---
 
